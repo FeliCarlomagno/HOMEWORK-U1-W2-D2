@@ -2,8 +2,6 @@
  Scrivi un algoritmo per trovare il più grande tra due numeri interi.
 */
 
-const { contourDensity } = require("d3-contour");
-
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 const num = 2;
@@ -174,11 +172,6 @@ if (typeof object === "number") {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-
-/*const value = 24;
-if (value % 2) {
-  console.log(" valore pari");
-}*/
 
 /* ESERCIZIO 10
   Modifica la logica del seguente algoritmo in modo che mostri in console il messaggio corretto in ogni circostanza.
